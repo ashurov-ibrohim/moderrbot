@@ -1,0 +1,1 @@
+# O'zbek tilida guruhlarni boshqarish uchun qulay bot!'
