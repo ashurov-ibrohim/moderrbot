@@ -1,0 +1,4 @@
+.env
+warnings.json
+__pycache__/
+*.pyc
